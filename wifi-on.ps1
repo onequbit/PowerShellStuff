@@ -1,0 +1,1 @@
+PowerShell -NoProfile -ExecutionPolicy Unrestricted -Command "& {Start-Process PowerShell -ArgumentList '-NoProfile -ExecutionPolicy Unrestricted -Command ""get-netadapter | Where -value \"Wi-Fi\" -CIn Name | Enable-NetAdapter""' -Verb RunAs}";
