@@ -2,6 +2,8 @@ function Get-NetworkConnectionStatus {
     param(
         $ComputerName=$env:computername
     )
+    echo "Getting network connection status"
+    $ComputerName
     $statushash = @{
         0 = "Disconnected"
         1 = "Connecting"
@@ -17,11 +19,11 @@ function Get-NetworkConnectionStatus {
         11 = "Invalid Address"
         12 = "Credentials Required"
     }
-    $networks = Gwmi -Class Win32_NetworkAdapter -ComputerName $computername
+    $networks = get-ciminstance -class Win32_NetworkAdapter # -ComputerName $computername    
     $networkName = @{name="NetworkName";Expression={$_.Name}}
-    $networkStatus = @{name="Networkstatus";Expression=` 
-        {$statushash[[int32]$($_.NetConnectionStatus)]}}
-    foreach ($network in $networks) {
+    $networkStatus = @{name="Networkstatus";Expression={$statushash[[int32]$($_.NetConnectionStatus)]}}    
+    foreach ($network in $networks) {        
         $network | select $networkName, $Networkstatus
-    }
+    }    
 }
+Export-ModuleMember Get-NetworkConnectionStatus
