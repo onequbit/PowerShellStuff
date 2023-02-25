@@ -1,0 +1,11 @@
+ComputerName,IPAddress,MACAddress,Interface
+DESKTOP-NML2319,10.1.10.151,f0-4d-a2-2d-3e-1d,Ethernet4
+DESKTOP-S5HD4SV,10.1.10.154,1c-69-7a-62-3f-c3,Ethernet4
+DESKTOP-O06P2HF,10.1.10.176,e0-d5-5e-6f-78-be,Ethernet4
+IEUDEV1,10.1.10.152,48-4d-7e-f1-03-93,Ethernet4
+unknown,10.1.10.153,d4-ae-52-e5-e8-b0,Ethernet4
+unknown,10.1.10.156,d4-ae-52-e5-e8-af,Ethernet4
+unknown,10.1.10.157,00-9c-02-c9-81-b9,Ethernet4
+unknown,10.1.10.158,d4-ae-52-e5-e8-b7,Ethernet4
+unknown,10.1.10.160,d8-9e-f3-0d-2b-73,Ethernet4
+unknown,10.1.10.167,b0-00-b4-19-c8-33,Ethernet4

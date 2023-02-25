@@ -1,0 +1,126 @@
+PS J:\CSFOT_IR_materials\Splits> get-filehash * -algorithm md5 | format-list
+
+
+Algorithm : MD5
+Hash      : 2FE4E0EF851486C6DF6B90D67EBBB74D
+Path      : J:\CSFOT_IR_materials\Splits\pcap.7z.001
+
+Algorithm : MD5
+Hash      : 4DBB11B25F6C924093A3B4D7F85EE5B9
+Path      : J:\CSFOT_IR_materials\Splits\pcap.7z.002
+
+Algorithm : MD5
+Hash      : A28F834883439B96B448C48B0DD4A73F
+Path      : J:\CSFOT_IR_materials\Splits\pcap.7z.003
+
+Algorithm : MD5
+Hash      : C64926B91375C885A84CF7D97CA109DA
+Path      : J:\CSFOT_IR_materials\Splits\pcap.7z.004
+
+Algorithm : MD5
+Hash      : 520E406E8FF4E7B56627E24861CAF344
+Path      : J:\CSFOT_IR_materials\Splits\pcap.7z.005
+
+Algorithm : MD5
+Hash      : 4942BD16525153BC60F6BA771D61DF79
+Path      : J:\CSFOT_IR_materials\Splits\213.pcap
+
+Algorithm : MD5
+Hash      : 5A05E0816D8D560D8E219469747AD235
+Path      : J:\CSFOT_IR_materials\Splits\LAN.jpg
+
+Algorithm : MD5
+Hash      : 10FB26587717F03049AF88C0503DA71A
+Path      : J:\CSFOT_IR_materials\Splits\Ubuntu-Server.7z
+
+Algorithm : MD5
+Hash      : 967C8AF78B0FA1CA5FF3B2F7E97BC7EF
+Path      : J:\CSFOT_IR_materials\Splits\WSOI-Win10_split.7z.001
+
+Algorithm : MD5
+Hash      : 51117045C78A20E1A071B88463B43CD1
+Path      : J:\CSFOT_IR_materials\Splits\WSOI-Win10_split.7z.002
+
+Algorithm : MD5
+Hash      : BBB657B4160881F769C67F2B9CB514D3
+Path      : J:\CSFOT_IR_materials\Splits\WS11-Win7_split.7z.001
+
+Algorithm : MD5
+Hash      : 0B656AF63B15923C4C172638B211D182
+Path      : J:\CSFOT_IR_materials\Splits\WS11-Win7_split.7z.002
+
+Algorithm : MD5
+Hash      : C7622DF4B316170C4C44DC7C977AB858
+Path      : J:\CSFOT_IR_materials\Splits\WS11-Win7_split.7z.003
+
+Algorithm : MD5
+Hash      : 85C99BDB507A2E7F363808A164C2F7A8
+Path      : J:\CSFOT_IR_materials\Splits\WS11-Win7_split.7z.004
+
+Algorithm : MD5
+Hash      : 1220E82ABFB912EF3F51A99B1063E0E9
+Path      : J:\CSFOT_IR_materials\Splits\WS11-Win7_split.7z.005
+
+Algorithm : MD5
+Hash      : 37FB3D8725C058DAFE35E16866626194
+Path      : J:\CSFOT_IR_materials\Splits\WS11-Win7_split.7z.006
+
+Algorithm : MD5
+Hash      : 61F0CA1B2888B6369508FE5B9715609E
+Path      : J:\CSFOT_IR_materials\Splits\WS4A-Win7_split.7z.001
+
+Algorithm : MD5
+Hash      : 8CF3A93198305E2A1AB17600F67AED6B
+Path      : J:\CSFOT_IR_materials\Splits\WS4A-Win7_split.7z.002
+
+Algorithm : MD5
+Hash      : 8CD2B60C9321B9D63908C03390BDB551
+Path      : J:\CSFOT_IR_materials\Splits\WS4A-Win7_split.7z.003
+
+Algorithm : MD5
+Hash      : BE29CB99A51D33E77258D088BC705D4A
+Path      : J:\CSFOT_IR_materials\Splits\WS4A-Win7_split.7z.004
+
+Algorithm : MD5
+Hash      : D87608B51076E5162E1E202DD0E5B2FF
+Path      : J:\CSFOT_IR_materials\Splits\WS4A-Win7_split.7z.005
+
+Algorithm : MD5
+Hash      : 5BD0325793078563ABFE45658D7FE992
+Path      : J:\CSFOT_IR_materials\Splits\WS4A-Win7_split.7z.006
+
+Algorithm : MD5
+Hash      : 1F93B61160C5FCC9E77C76BEAAE18B85
+Path      : J:\CSFOT_IR_materials\Splits\WS4A-Win7_split.7z.007
+
+Algorithm : MD5
+Hash      : E0B6715905CDCDD7873EAF556C92BC05
+Path      : J:\CSFOT_IR_materials\Splits\WS01-Win10_split.7z.001
+
+Algorithm : MD5
+Hash      : 347C3AC0FEF63FA8387E22C04ED3C9E8
+Path      : J:\CSFOT_IR_materials\Splits\WS01-Win10_split.7z.002
+
+Algorithm : MD5
+Hash      : 2554ABA445E088B37B49C562781C8032
+Path      : J:\CSFOT_IR_materials\Splits\ADSrv-2012_split.7z.001
+
+Algorithm : MD5
+Hash      : EC9F6AE97BC61B7845D3BA00477B3480
+Path      : J:\CSFOT_IR_materials\Splits\ADSrv-2012_split.7z.002
+
+Algorithm : MD5
+Hash      : AAB578169241A430BB1D5B87367545D9
+Path      : J:\CSFOT_IR_materials\Splits\ADSrv-2012_split.7z.003
+
+Algorithm : MD5
+Hash      : 5269FEAF6AAF070B1C100D5CB70EA5EE
+Path      : J:\CSFOT_IR_materials\Splits\ADSrv-2012_split.7z.004
+
+Algorithm : MD5
+Hash      : 1487B159FA6FF460DD4AC9E540E5C43C
+Path      : J:\CSFOT_IR_materials\Splits\ADSrv-2012_split.7z.005
+
+Algorithm : MD5
+Hash      : 59FBE3AD697B2991180CEBCF0B07E185
+Path      : J:\CSFOT_IR_materials\Splits\ADSrv-2012_split.7z.006
